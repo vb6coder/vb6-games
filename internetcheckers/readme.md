@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/vb6coder/vb6-games/refs/heads/main/internetcheckers/screenshot.gif?raw=true)
+
 This is a Archive for the Source code for this Game you can still download it at the Original Authors Site too.
 
 InternetCheckers - by Eric Coleman
